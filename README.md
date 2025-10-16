@@ -1,4 +1,4 @@
-# MaroelaMed Paginated Reports
+# MarulaMed Paginated Reports
 
 I conducted an analysis of financial results for brokerages in the healthcare sectore and designed a paginated report using SQL, and Power BI Report Builder to present key insights and trends and report on the growth and retention of brokerages.
 
